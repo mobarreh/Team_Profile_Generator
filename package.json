@@ -4,12 +4,17 @@
     "description": "",
     "main": "index.js",
     "directories": {
-            "test": "tests"
+        "test": "tests"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
         "inquirer": "^8.2.4"
+        
+    },
+    "devDependencies": {
+        "jest": "^29.4.3"
     }
+    
 }
