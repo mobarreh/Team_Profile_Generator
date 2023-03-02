@@ -4,8 +4,11 @@ A Node.js command-line application that takes in information about employees on 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
+```
+AS A manager
+I WANT to generate a webpage that displays my team's basic info
+SO THAT I have quick access to their emails and GitHub profiles
+```
 ## Getting Started
 
 ### Dependencies
